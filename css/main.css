@@ -169,7 +169,7 @@ body {
 
 .projects {
     background-color: #0526cb;
-    height: 140vh;
+    height: 148vh;
     position: relative;
     z-index: 0;
     position: relative;
@@ -270,7 +270,7 @@ body {
 }
 
 .skills {
-    height: 120vh;
+    height: 130vh;
     background-color: #b6bae0;
     padding: 5.5em;
     color: #FFF;
@@ -409,7 +409,7 @@ body {
 
 .contact-me {
     position: absolute;
-    padding-top: 6em;
+    padding-top: 3em;
     width: 100%;
 }
 
